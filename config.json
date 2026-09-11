@@ -16,8 +16,8 @@
     "color": "#fef3c7"
   },
   {
-    "name": "Kvasar 10°",
-    "price": 35,
+    "name": "Birell / ochucené",
+    "price": 40,
     "unit": "0,5l",
     "in_stock": true,
     "order": 3,
@@ -40,51 +40,19 @@
     "color": "#fef3c7"
   },
   {
-    "name": "Kvasar 10°",
-    "price": 25,
-    "unit": "0,3l",
-    "in_stock": true,
-    "order": 6,
-    "color": "#fef3c7"
-  },
-  {
-    "name": "Rozlévané víno",
-    "price": 40,
-    "unit": "0,2l",
+    "name": "Bezinka",
+    "price": 30,
+    "unit": "0,5l",
     "in_stock": true,
     "order": 7,
-    "color": "#e6a3e3"
+    "color": "#e0f2fe"
   },
   {
-    "name": "Grep",
+    "name": "Bezinka",
     "price": 20,
-    "unit": "0,5l",
-    "in_stock": true,
-    "order": 7,
-    "color": "#e0f2fe"
-  },
-  {
-    "name": "Kofola",
-    "price": 35,
-    "unit": "0,5l",
-    "in_stock": true,
-    "order": 8,
-    "color": "#e0f2fe"
-  },
-  {
-    "name": "Grep",
-    "price": 15,
     "unit": "0,3l",
     "in_stock": true,
     "order": 9,
-    "color": "#e0f2fe"
-  },
-  {
-    "name": "Kofola",
-    "price": 20,
-    "unit": "0,3l",
-    "in_stock": true,
-    "order": 10,
     "color": "#e0f2fe"
   },
   {
@@ -105,7 +73,7 @@
   },
   {
     "name": "B.Republica/Gin",
-    "price": 45,
+    "price": 40,
     "unit": "0,04l",
     "in_stock": true,
     "order": 12,
@@ -144,15 +112,7 @@
     "color": "#f2b6b6"
   },
   {
-    "name": "Tyčinky",
-    "price": 25,
-    "unit": "90g",
-    "in_stock": true,
-    "order": 17,
-    "color": "#b6f2bc"
-  },
-  {
-    "name": "Brambůrky",
+    "name": "Tyčinky/Brambůrky",
     "price": 30,
     "unit": "90g",
     "in_stock": true,
