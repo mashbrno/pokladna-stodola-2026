@@ -16,11 +16,19 @@
     "color": "#fef3c7"
   },
   {
+    "name": "Kvasar 10° / radler",
+    "price": 35,
+    "unit": "0,5l",
+    "in_stock": true,
+    "order": 3,
+    "color": "#fef3c7"
+  },
+  {
     "name": "Birell / ochucené",
     "price": 40,
     "unit": "0,5l",
     "in_stock": true,
-    "order": 3,
+    "order": 4,
     "color": "#fef3c7"
   },
   {
@@ -28,7 +36,7 @@
     "price": 35,
     "unit": "0,3l",
     "in_stock": true,
-    "order": 4,
+    "order": 5,
     "color": "#fef3c7"
   },
   {
@@ -36,23 +44,47 @@
     "price": 30,
     "unit": "0,3l",
     "in_stock": true,
-    "order": 5,
+    "order": 6,
     "color": "#fef3c7"
   },
   {
-    "name": "Bezinka",
-    "price": 30,
-    "unit": "0,5l",
+    "name": "Kvasar 10°",
+    "price": 25,
+    "unit": "0,3l",
     "in_stock": true,
     "order": 7,
+    "color": "#fef3c7"
+  },
+  {
+    "name": "Grep",
+    "price": 20,
+    "unit": "0,5l",
+    "in_stock": true,
+    "order": 8,
     "color": "#e0f2fe"
   },
   {
-    "name": "Bezinka",
+    "name": "Kofola",
+    "price": 30,
+    "unit": "0,5l",
+    "in_stock": true,
+    "order": 9,
+    "color": "#e0f2fe"
+  },
+  {
+    "name": "Grep",
+    "price": 15,
+    "unit": "0,3l",
+    "in_stock": true,
+    "order": 10,
+    "color": "#e0f2fe"
+  },
+  {
+    "name": "Kofola",
     "price": 20,
     "unit": "0,3l",
     "in_stock": true,
-    "order": 9,
+    "order": 11,
     "color": "#e0f2fe"
   },
   {
@@ -60,7 +92,7 @@
     "price": 20,
     "unit": "0,5l",
     "in_stock": true,
-    "order": 10,
+    "order": 12,
     "color": "#e0f2fe"
   },
   {
@@ -68,7 +100,7 @@
     "price": 50,
     "unit": "0,04l",
     "in_stock": true,
-    "order": 11,
+    "order": 13,
     "color": "#f2b6b6"
   },
   {
@@ -76,7 +108,7 @@
     "price": 40,
     "unit": "0,04l",
     "in_stock": true,
-    "order": 12,
+    "order": 14,
     "color": "#f2b6b6"
   },
   {
@@ -84,7 +116,7 @@
     "price": 40,
     "unit": "0,04l",
     "in_stock": true,
-    "order": 13,
+    "order": 15,
     "color": "#f2b6b6"
   },
   {
@@ -92,7 +124,7 @@
     "price": 35,
     "unit": "0,04l",
     "in_stock": true,
-    "order": 14,
+    "order": 16,
     "color": "#f2b6b6"
   },
   {
@@ -100,7 +132,7 @@
     "price": 60,
     "unit": "0,3l",
     "in_stock": true,
-    "order": 15,
+    "order": 17,
     "color": "#f2b6b6"
   },
   {
@@ -108,23 +140,23 @@
     "price": 70,
     "unit": "0,3l",
     "in_stock": true,
-    "order": 16,
+    "order": 18,
     "color": "#f2b6b6"
+  },
+  {
+    "name": "Trapské cigáro",
+    "price": 80,
+    "unit": "1ks",
+    "in_stock": true,
+    "order": 19,
+    "color": "#b6f2bc"
   },
   {
     "name": "Tyčinky/Brambůrky",
     "price": 30,
     "unit": "90g",
     "in_stock": true,
-    "order": 17,
-    "color": "#b6f2bc"
-  },
-  {
-    "name": "Trapské cigáro",
-    "price": 100,
-    "unit": "1ks",
-    "in_stock": true,
-    "order": 17,
+    "order": 20,
     "color": "#b6f2bc"
   }
 ]
